@@ -17,7 +17,7 @@ import "./Components/Explore/Explore.css"
 import "./Components/Cards/Cards.css"
 import Footer from "./Components/Footer/Footer";
 import "./Components/Footer/Footer.css"
-import Cards from "./components/Cards/cards.jsx";
+import Cards from "./components/Cards/Cards";
 import Banner from "./Components/Banner/Banner.jsx";
 
 
