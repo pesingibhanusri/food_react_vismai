@@ -13,11 +13,10 @@ import "./Components/Banner/Banner.css"
 import"./Components/Corrosil/Corrosil.css"
 import Explore from "./Components/Explore/Explore";
 import "./Components/Explore/Explore.css"
-// import Cards from "./Components/Cards/Cards.jsx";
 import "./Components/Cards/Cards.css"
 import Footer from "./Components/Footer/Footer";
 import "./Components/Footer/Footer.css"
-import Cards from "./components/Cards/Cards";
+import Cards from "./components/Cards/Cards.jsx";
 import Banner from "./Components/Banner/Banner.jsx";
 
 
